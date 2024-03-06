@@ -1,0 +1,3 @@
+- Link to the app: https://timotheebarry.github.io/visu-game-sales/
+- Link to the project on ECL gitlab: https://gitlab.ec-lyon.fr/barryt/visu-game-sales
+- Link to the observable notebook (dataset + prototype): https://observablehq.com/d/dd2d26ee9491f551
